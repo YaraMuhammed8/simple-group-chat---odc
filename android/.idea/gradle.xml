@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="E:/Flutter/GitHub/orange_chat_group/android" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="C:/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.4.5/android" />
+            <option value="C:/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.21.0/android" />
+            <option value="E:/Flutter/GitHub/orange_chat_group/android" />
+            <option value="E:/Flutter/GitHub/orange_chat_group/android/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
